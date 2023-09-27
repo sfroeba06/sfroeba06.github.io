@@ -1,0 +1,43 @@
+/* navigation menu */
+nav {
+    background: rgb(0, 11, 221);
+   margin: 0 auto;
+   margin-bottom: 20px;
+    display: flex;
+    padding: 10px;
+    border: ridge 8px;
+    border-color: rgb(1, 80, 255);
+}
+h1 {
+    display: flex;
+    align-items: center;
+    color: rgb(10, 120, 50);
+    flex: 1;
+    margin: 0;
+}
+#nav-ul {
+    list-style-image: none;
+}
+.nav-li {
+    display: inline-block;
+    padding: 0 10px;
+}
+a {
+    text-decoration: none;
+    color: rgb(0, 120, 255);
+}
+img {
+    padding: 0px;
+    align-items: center auto;
+}
+.img-page {
+width: 400px;
+height: 200px
+}
+.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 350px;
+    border-width: 20 20
+}

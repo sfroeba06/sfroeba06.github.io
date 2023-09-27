@@ -16,7 +16,7 @@ nav {
    margin-bottom: 20px;
     display: flex;
     padding: 10px;
-    border: solid 4px;
+    border: ridge 4px;
     border-color: rgb(255, 3, 255);
 }
 h1 {
@@ -59,7 +59,7 @@ main {
 
 /* portfolio styles */
 #interests {
-    border: 4px goldenrod ridge;
+    border: 4px ridge goldenrod;
     padding: 8px;
 }
 h2, h3 {
