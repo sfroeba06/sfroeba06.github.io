@@ -1,8 +1,8 @@
 /* navigation menu */
 nav {
     background: rgb(0, 11, 221);
-   margin: 0 auto;
-   margin-bottom: 20px;
+    margin: 0 auto;
+    margin-bottom: 20px;
     display: flex;
     padding: 10px;
     border: ridge 8px;
@@ -31,8 +31,8 @@ img {
     align-items: center auto;
 }
 .img-page {
-width: 400px;
-height: 200px
+    width: 400px;
+    height: 200px
 }
 .fixed {
     position: fixed;
